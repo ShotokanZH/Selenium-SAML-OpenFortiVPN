@@ -6,7 +6,7 @@ The "Selenium-SAML-OpenFortiVPN" is a Python script designed to automate the pro
 To run the script, ensure you have Python 3 installed on your system along with the required dependencies, including the Selenium WebDriver, and either the Firefox or Chrome browser. The script can be executed from the command line as follows:
 
 ```
-python3 script_name.py <host> [--port <port>] [--browser <browser>]
+python3 selenium_saml.py <host> [--port <port>] [--browser <browser>]
 ```
 
 - `<host>`: The hostname or IP address of the target OpenFortiGate SSL VPN server.
